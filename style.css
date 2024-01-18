@@ -1,5 +1,7 @@
 body{
-  background-color:darkseagreen;
+   background-image: url("https://i.pinimg.com/originals/56/a6/9a/56a69ab9ddc680d1e9ecd8b5c0e58ce7.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 ul{
   list-style-type: none;
