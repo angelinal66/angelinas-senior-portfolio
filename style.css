@@ -17,6 +17,36 @@ h3{
 h4{
     color: hotpink;}
 p{
-  margin-left: 55%;
-  margin-down: 80%;
-  color: hotpink; {
+    text-align:center;
+    padding: 10px;
+  margin-left: 10%;
+    color: hotpink; 
+    border: 2px solid hotpink;
+        text-align: center;
+    margin: 0px auto;
+    width: 1000px;
+}
+
+.rat{
+   display:flex;
+   background-color: lightpink;
+}
+.beat{
+  text-align: center;
+    margin: 0px auto;
+    width: 1000px;}
+.ren{
+    font-size: 20px;
+background-color: pink;}
+.welcome{
+font-size: 25px;
+ border: 2px solid hotpink;
+        text-align: center;
+    margin: 0px auto;
+    width: 1000px;}
+.project{
+    font-size: 30px;
+}
+.labs{
+    font-size: 30px;
+}
