@@ -83,7 +83,8 @@ width:300px;
   }
 #rightLabs{
   width:500px;
-  float: left;
+  float: left;}
+
 .labs{
       position: relative;
     left: -314px;
