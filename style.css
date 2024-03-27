@@ -77,13 +77,7 @@ width:300px;
     border: solid 4px;
     font-size: 30px;
 }
-#leftProject{
-  width:500px;
-  float:left;
-  }
-#rightLabs{
-  width:500px;
-  float: left;}
+
 
 .labs{
       position: relative;
