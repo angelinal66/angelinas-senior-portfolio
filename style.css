@@ -82,3 +82,6 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+.hi{
+  display:none;
+}
