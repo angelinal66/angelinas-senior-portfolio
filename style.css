@@ -67,12 +67,12 @@ width:300px;
 
 
 .labs{
-      position: absolute;
-    left: -424px;
-    top: -1809px;
+      position: relative;
+    left: -80%;
+    top: -170%;
 }
 .labs2{
-      position: absolute;
+      position:relative;
     left: -414px;
     top: -1809px;
 }
