@@ -67,12 +67,12 @@ width:300px;
 
 
 .labs{
-      position: static;
+      position: absolute;
     left: -424px;
     top: -1809px;
 }
 .labs2{
-      position: static;
+      position: absolute;
     left: -414px;
     top: -1809px;
 }
