@@ -60,19 +60,19 @@ text-align:right;
 
 .lut{
     height: 200px;
-width:200px;
+width:300px;
     border: solid 4px;
     font-size: 30px;
 }
 
 
 .labs{
-      position: relative;
+      position: static;
     left: -424px;
     top: -1809px;
 }
 .labs2{
-      position: relative;
+      position: static;
     left: -414px;
     top: -1809px;
 }
