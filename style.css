@@ -68,13 +68,13 @@ width:300px;
 
 .labs{
       position: relative;
-    left: 80%;
+    left: 0%;
     top: -970%;
     overflow: auto;
 }
 .labs2{
       position:relative;
-    left: -414px;
+    left: 0%;
     top: -1809px;
     overflow: auto;
 }
