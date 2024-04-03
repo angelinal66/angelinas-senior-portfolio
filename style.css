@@ -79,7 +79,6 @@ display: flex;
    float:left;
 }
     
-}
 .resume1{
 text-align:center;
 border: 4px solid hotpink;
@@ -95,8 +94,5 @@ border: 3px solid hotpink;
      display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
-   
-}
-
+  width: 30%;}
 
